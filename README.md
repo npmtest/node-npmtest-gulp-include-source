@@ -1,4 +1,7 @@
-# test coverage for  [gulp-include-source (v0.0.5)](https://github.com/gil/gulp-include-source)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-include-source.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-include-source) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-include-source.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-include-source)
+# npmtest-gulp-include-source
+
+#### basic test coverage for  [gulp-include-source (v0.0.5)](https://github.com/gil/gulp-include-source)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-include-source.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-include-source) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-include-source.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-include-source)
+
 #### Include scripts and styles into your HTML files automatically.
 
 [![NPM](https://nodei.co/npm/gulp-include-source.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-include-source)
@@ -81,7 +84,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.0.5"
+    "version": "0.0.5",
+    "bin": {}
 }
 ```
 
